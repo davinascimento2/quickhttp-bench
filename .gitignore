@@ -1,0 +1,8 @@
+target/
+*.class
+*.jar
+*.vault
+*.decrypted
+.idea/
+*.iml
+.vscode/
